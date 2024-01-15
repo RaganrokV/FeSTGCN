@@ -3,10 +3,11 @@ FeSTGCN: A Frequency-enhanced Spatio-Temporal Graph Convolutional Network for Tr
 
 This is just a preliminary version, and we will continue to make changes based on reviewer comments
 
-## 2024.1.12 update：updated Wilcoxon_test
+## update 2024.1.12 ：updated Wilcoxon_test
 
 ## update 2024.1.15： updated uncertainty analysis
 The uncertainty analysis method we use comes from the random deactivating connective weights approach (ARDCW). If you are interested, please check their original article at https://link.springer.com/article/10.1007/s11053-022-10051-w.
+
 Please note that ：
 -   since the authors do not provide the source code, we cannot guarantee whether the reproduced results fully reflect the superiority of the original algorithm.
 -   Performing ARDCW on FeSTGCN can be very time-consuming, as ARDCW is similar to an ensemble method, and thus the runtime depends on the number of models you adopt
