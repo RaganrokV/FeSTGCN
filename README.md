@@ -12,8 +12,11 @@ Please note that ：
 -   since the authors do not provide the source code, we cannot guarantee whether the reproduced results fully reflect the superiority of the original algorithm.
 -   Performing ARDCW on FeSTGCN can be very time-consuming, as ARDCW is similar to an ensemble method, and thus the runtime depends on the number of models you adopt
 
+## update 2024.1.18： updated Freidman_test
+
+
 ## reviewers' comments
-This is the comment of two reviewers on the paper, thank you very much for their patience, we will do our best to make changes!
+This is the comment of two reviewers on the paper, thank you very much for their comments, we will do our best to make changes!
 
 Reviewer #1: Should make the formatting in a proper way. In page 18, GPU name should be correct. Authors should give compendium about the FeSTGCN layers.
 
