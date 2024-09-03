@@ -1,7 +1,13 @@
 # FeSTGCN
 FeSTGCN: A Frequency-enhanced Spatio-Temporal Graph Convolutional Network for Traffic Flow Prediction under Adaptive Signal Timing
 
-This is just a preliminary version, and we will continue to make changes based on reviewer comments
+This study aims to simultaneously model the temporal, spatial, and frequency domain dependencies of traffic flow
+
+
+
+If you find our research helpful, feel free to cite us!
+
+``` Huang, Hc., Chen, Zh., Li, Bw. et al. FeSTGCN: A frequency-enhanced spatio-temporal graph convolutional network for traffic flow prediction under adaptive signal timing. Appl Intell 54, 4848–4864 (2024). https://doi.org/10.1007/s10489-024-05401-5
 
 ## update 2024.1.12 ：updated Wilcoxon_test
 
