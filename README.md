@@ -3,11 +3,27 @@ FeSTGCN: A Frequency-enhanced Spatio-Temporal Graph Convolutional Network for Tr
 
 This study aims to simultaneously model the temporal, spatial, and frequency domain dependencies of traffic flow
 
+![Framework-FeSTGCN](https://github.com/user-attachments/assets/c7121e3c-f228-4d98-a680-aee83ee25f48)
 
 
 If you find our research helpful, feel free to cite us!
 
-``` Huang, Hc., Chen, Zh., Li, Bw. et al. FeSTGCN: A frequency-enhanced spatio-temporal graph convolutional network for traffic flow prediction under adaptive signal timing. Appl Intell 54, 4848–4864 (2024). https://doi.org/10.1007/s10489-024-05401-5
+``` 
+@article{huang_festgcn_2024,
+	title = {{FeSTGCN}: {A} frequency-enhanced spatio-temporal graph convolutional network for traffic flow prediction under adaptive signal timing},
+	copyright = {All rights reserved},
+	issn = {0924-669X, 1573-7497},
+	shorttitle = {{FeSTGCN}},
+	url = {https://link.springer.com/10.1007/s10489-024-05401-5},
+	doi = {10.1007/s10489-024-05401-5},
+	language = {en},
+	urldate = {2024-04-10},
+	journal = {Applied Intelligence},
+	author = {Huang, Hai-chao and Chen, Zhi-heng and Li, Bo-wen and Ma, Qing-hai and He, Hong-di},
+	month = apr,
+	year = {2024},
+}
+```
 
 ## update 2024.1.12 ：updated Wilcoxon_test
 
